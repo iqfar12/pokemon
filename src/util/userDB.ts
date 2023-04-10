@@ -1,13 +1,13 @@
 export const user = {
-  username: "bgamas",
+  username: "test",
   password: "test1234",
 };
 
 export const userDetails: UserEntity = {
-  username: "bgamas",
-  firstName: "Bryan",
-  lastName: "Gama",
-  email: "me@bryangama.com",
+  username: "Test Pokemon",
+  firstName: "Test",
+  lastName: "Pokemon",
+  email: "TestPokemon@gmail.com",
 };
 
 export interface UserEntity {
